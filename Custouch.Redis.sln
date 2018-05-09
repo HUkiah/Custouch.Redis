@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custouch.Redis", "Custouch.Redis\Custouch.Redis.csproj", "{3793FE1B-45EB-444C-96FE-C3D0E41B6681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3793FE1B-45EB-444C-96FE-C3D0E41B6681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3793FE1B-45EB-444C-96FE-C3D0E41B6681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3793FE1B-45EB-444C-96FE-C3D0E41B6681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3793FE1B-45EB-444C-96FE-C3D0E41B6681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A1848F8-4387-4808-B8DE-D6953047F56D}
+	EndGlobalSection
+EndGlobal
